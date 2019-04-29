@@ -1,5 +1,4 @@
-# UrbanHeat
-### Case Study: Heat and Street Trees
+# Urban Heat
 
 This repo replicates the process described here: http://urbanspatialanalysis.com/urban-heat-islands-street-trees-in-philadelphia/ but using Python tools rather than ESRI.
 
